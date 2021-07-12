@@ -56,16 +56,16 @@ class ListRecommended extends StatelessWidget {
             ),
           ),
           CardRecommendedPlace(
-            'https://www.lavanguardia.com/files/article_main_microformat/uploads/2016/05/20/5fa2cb6b6c307.jpeg',
-            'Lugar recomendado',
+            'https://i0.wp.com/blog.vivaaerobus.com/wp-content/uploads/2020/04/paisajes-hermosos-de-mexico-reales.jpg',
+            'Popocatépetl e Iztaccíhuatl',
           ),
           CardRecommendedPlace(
-            'https://www.lavanguardia.com/files/article_main_microformat/uploads/2016/05/20/5fa2cb6b6c307.jpeg',
-            'Lugar recomendado',
+            'https://i2.wp.com/blog.vivaaerobus.com/wp-content/uploads/2020/04/Huasteca-Potosina.jpg',
+            'Huasteca Potosina',
           ),
           CardRecommendedPlace(
-            'https://www.lavanguardia.com/files/article_main_microformat/uploads/2016/05/20/5fa2cb6b6c307.jpeg',
-            'Lugar recomendado',
+            'https://i1.wp.com/blog.vivaaerobus.com/wp-content/uploads/2020/04/paisaje-de-los-cabos.jpg',
+            'Los Cabos',
           ),
         ],
       ),

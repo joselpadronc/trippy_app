@@ -43,6 +43,7 @@ class CardRecommendedPlace extends StatelessWidget {
           ),
           child: Text(
             namePlace,
+            overflow: TextOverflow.ellipsis,
             style: TextStyle(
               color: Colors.white,
               fontWeight: FontWeight.bold,

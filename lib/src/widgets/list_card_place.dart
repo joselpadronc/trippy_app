@@ -35,16 +35,16 @@ class ListCardPlace extends StatelessWidget {
             ),
             children: <CardPlace>[
               CardPlace(
-                'https://tipsparatuviaje.com/wp-content/uploads/2019/08/gran-muralla-china.jpg',
-                'Muralla China',
+                'http://blog.videpan.es/wp-content/uploads/2016/05/Curva-de-la-Herradura.jpg',
+                'Curva de la Herradura',
               ),
               CardPlace(
                 'https://tipsparatuviaje.com/wp-content/uploads/2019/08/gran-muralla-china.jpg',
                 'Muralla China',
               ),
               CardPlace(
-                'https://tipsparatuviaje.com/wp-content/uploads/2019/08/gran-muralla-china.jpg',
-                'Muralla China',
+                'https://i0.wp.com/blog.vivaaerobus.com/wp-content/uploads/2020/04/paisaje-canon-del-sumidero.jpg',
+                'Cañón del Sumidero',
               ),
             ],
           ),
